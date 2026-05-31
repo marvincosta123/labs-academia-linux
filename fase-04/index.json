@@ -1,0 +1,22 @@
+{
+  "title": "Fase 4: O Caçador de Monstros",
+  "description": "Identifica e elimina processos rebeldes que estão a consumir demasiada CPU.",
+  "details": {
+    "steps": [
+      {
+        "title": "A Caçada",
+        "text": "step1.md",
+        "foreground": "step1-foreground.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
