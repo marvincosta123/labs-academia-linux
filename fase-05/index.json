@@ -1,0 +1,22 @@
+{
+  "title": "Fase 5: Sinais de Fumaça",
+  "description": "Faça testes de conectividade e verifique portas abertas no servidor.",
+  "details": {
+    "steps": [
+      {
+        "title": "Auditoria de Rede",
+        "text": "step1.md",
+        "foreground": "step1-foreground.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
