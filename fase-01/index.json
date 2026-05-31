@@ -1,0 +1,23 @@
+{
+  "title": "Fase 1: O Labirinto de Diretórios",
+  "description": "Missão de navegação e leitura de arquivos ocultos.",
+  "details": {
+    "steps": [
+      {
+        "title": "Acesso ao Terminal",
+        "text": "intro.md",
+        "background": "background.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "Tavini TI"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
