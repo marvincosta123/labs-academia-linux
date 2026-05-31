@@ -1,4 +1,4 @@
-# 🎮 Academia Linux - Modo Carreira (Tavini TI)
+# Academia Linux - Modo Carreira (Tavini TI)
 
 Meu objetivo é tornar o aprendizado básico do Linux mais acessível com uma linguagem fácil e gamificada. 
 Sei o quanto uma tonelada de termos técnicos para quem está iniciando pode ser dificultoso, logo decidi transformar esse pequeno curso, que não leva nem duas horas para ser realizado, em algo bem doce de ser mastigado e memorável.
@@ -9,7 +9,7 @@ Abraço!
 
 ---
 
-### 🚀 Como rodar a Academia na sua máquina
+### Como rodar a Academia na sua máquina
 
 Para rodar este portal no seu computador local, você só precisa ter o **Docker** instalado. Não é necessário configurar servidores web ou bancos de dados.
 
