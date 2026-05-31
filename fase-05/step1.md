@@ -2,7 +2,7 @@ A infraestrutura principal está de pé, mas precisamos auditar a rede a nível 
 
 ### ⚔️ O seu desafio:
 
-1. Olhe para a sua própria placa de rede para descobrir qual é o seu IP no laboratório (procure pela interface `eth0`)
+1. Olhe para a sua própria placa de rede para descobrir qual é o seu IP no laboratório (procure pela interface `enp1s0`)
 
 2. Jogue um bumerangue lá fora (Ping para o DNS do Google) para garantir que a saída para a internet funciona. Dica:
    O comando `-c 4` faz ele pingar apenas 4 vezes e parar sozinho.
