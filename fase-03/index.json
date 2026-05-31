@@ -1,0 +1,22 @@
+{
+  "title": "Fase 3: O Mestre das Chaves",
+  "description": "Aprende a ler e a alterar as permissões de segurança de ficheiros com chmod.",
+  "details": {
+    "steps": [
+      {
+        "title": "Trancando as Portas",
+        "text": "step1.md",
+        "foreground": "step1-foreground.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
