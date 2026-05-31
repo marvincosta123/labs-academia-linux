@@ -6,3 +6,12 @@ Sei o quanto uma tonelada de termos técnicos para quem está iniciado pode ser 
 Voce pode realizar o dowload e praticar em casa sempre que quiser.
 
 Abraço.
+
+### Como rodar a Academia na sua máquina
+
+Não precisa de instalar dependências complexas, apenas o Docker.
+
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/marvincosta123/labs-academia-linux.git](https://github.com/marvincosta123/labs-academia-linux.git)
+   cd academia-linux
