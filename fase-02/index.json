@@ -1,0 +1,22 @@
+{
+  "title": "Fase 2: O Cão Farejador",
+  "description": "Utilize o comando grep para caçar anomalias em um arquivo gigante.",
+  "details": {
+    "steps": [
+      {
+        "title": "Iniciando a Varredura",
+        "text": "step1.md",
+        "foreground": "step1-foreground.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
